@@ -1,6 +1,12 @@
 Recommendation System for StackExchange
 ==============
-## Schema
+
+Project that recommends users to answer a new incoming question on StackExchange.
+
+Course: Applied Data Science, Spring 2014, Columbia University
+
+
+## Schema of StackExchange Datadump
 
 ---***Posts***
 
